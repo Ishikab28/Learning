@@ -1,3 +1,17 @@
 Customer Churn Analysis 
 
 Problem statement
+
+In the highly competitive telecom industry, customer churn—the loss of customers to competitors—poses a significant challenge. Acquiring new customers is far more expensive than retaining existing ones, making customer retention a critical business objective.
+
+Despite offering competitive services, telecom companies often suffer from voluntary churn, where customers actively choose to switch to competitors. This churn is influenced by various factors such as pricing, contract terms, service quality, and customer support experience.
+
+Given the vast amount of customer data available, it is essential to develop a churn prediction model that can identify at-risk customers before they leave. By leveraging machine learning and data analytics, telecom companies can proactively implement targeted retention strategies, such as personalized offers, improved customer service, and loyalty programs, to minimize churn.
+
+This analysis aims to:
+
+   1) Identify key factors contributing to customer churn.
+   2) Build a predictive model to classify customers as potential churners or loyal customers.
+   3) Provide actionable insights to telecom companies for reducing churn and improving customer retention.
+
+I will examine customer data from IBM Sample Data Sets with the aim of building and comparing several customer churn prediction models.
